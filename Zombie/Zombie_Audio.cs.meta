@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4c6097809b0534f3dadaa0a53b211a5e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - idle: {fileID: 8300000, guid: 6a6372f002b1341e5a2f3cf50d806b18, type: 3}
+  - attack: {fileID: 8300000, guid: 82dde351cb9f048eeac1bf92e61cc9f5, type: 3}
+  - die: {fileID: 8300000, guid: 61b59d061002944a58b12a739de60e4e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
