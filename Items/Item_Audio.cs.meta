@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4dda428649bdf4173acd7c30d23edf2b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Serum: {fileID: 8300000, guid: 30a074beeb66349aa8e87f99e39bb5be, type: 3}
+  - HPKit: {fileID: 8300000, guid: ed4bd38f21266464db44e74da814c735, type: 3}
+  - item: {fileID: 8300000, guid: 871bae9a39c7042409a40d066ee7d6f0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
