@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a2172ae27ec3c4476b60356ce8d19e80
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - serum: {fileID: 8300000, guid: 30a074beeb66349aa8e87f99e39bb5be, type: 3}
+  - HPKit: {fileID: 8300000, guid: ed4bd38f21266464db44e74da814c735, type: 3}
+  - item: {fileID: 8300000, guid: 871bae9a39c7042409a40d066ee7d6f0, type: 3}
+  - Player_Die: {fileID: 8300000, guid: e2b75bca2c2564d228acda5e2581241b, type: 3}
+  - alarm: {fileID: 8300000, guid: a75a7006d09774531ab002fbfb03966a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

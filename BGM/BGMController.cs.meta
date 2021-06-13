@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 74aeb7afcf4384314b403e1c1fd9f02e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Night_BGM: {fileID: 8300000, guid: 12c17c8805b5645828fe904cb363e8e4, type: 3}
+  - Day_BGM: {fileID: 8300000, guid: c14c955393a1a4fa4b677853576e0a64, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
